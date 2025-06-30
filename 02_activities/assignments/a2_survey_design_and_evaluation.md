@@ -40,30 +40,45 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+write your answer here...I would like to better understand how we can improve employee retention and engagement within our organization.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
+```write your answer here...
+Target Population: 
+Employees hired in entry and lower- level positions, and supervisors across all departments.
+Sampling frame: 
+Entry-level roles employees hired in the previous 06 months, and supervisors.
+Sampling units: 
+Those who have been hired to work in the departments where the turnover is higher, supervisors, and terminated employees whose termination reason was voluntary.
+Sampling Strategy:
+Purposive Sampling since my sampling are those entry-level positions that were hired in the last 06 months, and those who have been terminated within a year for voluntary reasons and worked for the top 5 departments with more turnover.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
+Questionnaire for entry-level positions: 
+The purpose of the next questions is to explore potential gaps between employee expectations and their actual experiences
+
+1. write your question here...1.- What made you decide to apply for a job in this organization. This is a relevant source of information to see if employees really want to work for this company.
+2. write your question here...Where do you see yourself in two years? Identify the expectations employees have. If they want to professionally grow or not.
+3. write your question here...How do you think the organization can help you to succeed? It can give us some ideas of how we can work on retain employees.
+4. write your question here...What factors you think are relevant for you to stay longer in this role?  Same as the previous question; it can give us some ideas of how we can work on retain employees.
+
+Questionnaire for supervisors:
+5. write your question here...In your experience, what are the main reasons entry-level employees leave within the first 3-6 months?
+6. write your question here... Have you noticed any recurring feedback or complaints from entry-level employees before they leave?
+7. write your question here... Are there specific job tasks or expectations that seem to surprise or overwhelm new hires?
+8. write your question here... What changes, do you think would help reduce turnover in these roles?
 9. write your question here... (optional)
 10. write your question here... (optional)
+To get information regarding terminated employees, the sources will be:
+Exit interview datasets and/or past surveys conducted in the organization.
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -72,6 +87,47 @@ Identify and describe survey features:
 
 ```
 write your answer here
+SAmple Type:
+Stratified random sampling wth rejecteve sampling for non-volunteers
+Sample Size:
+16,149 respondents
+Target Population:
+The target population for the survey included all persons 15 years of age and older in Canada, excluding: 
+1. Residents of the Yukon, Northwest Territories, and Nunavut; 
+2. Full-time residents of institutions. 
+Sampling Frame:
+The survey frame was created using two different components: 
+1. Lists of telephone numbers in use (both landline and cellular) available to Statistics Canada from various sources (Telephone companies, Census of population, etc.); 
+2. The Address Register (AR): List of all dwellings within the ten provinces. 
+SAmpling Units:
+Groupings of telephone numbers linked to the same address
+Survey Mode:
+Data for the 2018 GSS GVP were collected electronically as a self-completed questionnaire (rEQ) as well as via computer assisted telephone interviews (iEQ).
+Timeline:
+Data for the 2018 GSS GVP were collected from September to December, 2018.
+Response Rate:
+The overall response rate was 41.9%.
+Weights:
+bootstrap weights,Initial weight calculation,Removal of out-of-scope records,Three-stage non-response,adjustment,Person weight calculation,Adjustment of person weights for Rejective Sampling,Adjustment of person weights to external totals,Stratum Adjustment,Income Adjustment,Raking ratio adjustments,Final person weight
+Province - age - sex adjustment
+Data Procesing:
+Data capture
+Coding
+Cleaning and Imputation:
+Creation of combined and derived variables
+Additional PUMF processing steps
+Sources of error:
+sampling error, non-response bias, measurement error, coverage error
+Limitations / Biases:
+Excludes territories and institutionalized populations; self-reported data may be affected by recall or social desirability bias
+Links for more information: 
+Patric.Fournier-Savard@canada.ca
+Valerie.duPlessis@canada.ca
+Caroline.Pelletier@canada.ca
+
+
+
+
 ```
 
 ## Rubric
